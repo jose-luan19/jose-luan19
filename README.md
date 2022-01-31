@@ -18,7 +18,7 @@
   <img align="center" alt="Lari-Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Lari-Postgresql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="Lari-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="right" alt="Lari-Life-Developer" src="http://clubedosgeeks.com.br/wp-content/uploads/2016/01/dormrm.gif">
+  <img align="right" alt="Lari-Life-Developer" src="https://img.buzzfeed.com/buzzfeed-static/static/2017-12/7/13/asset/buzzfeed-prod-fastlane-01/anigif_sub-buzz-31301-1512671166-3.gif">
 </div>
 
 ##
