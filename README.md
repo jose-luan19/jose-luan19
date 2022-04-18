@@ -20,6 +20,7 @@
   <img align="center" alt="Luan-Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Luan-Postgresql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="Luan-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" alt="Luan-Docker" height="30" width="40" src="https://cdn.icon-icons.com/icons2/2407/PNG/512/docker_icon_146192.png">
   <img align="right" alt="Luan-Life-Developer" height="150" style="border-radius:50px;" src="http://clubedosgeeks.com.br/wp-content/uploads/2016/01/dormrm.gif">
 </div>
 
