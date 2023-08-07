@@ -1,12 +1,12 @@
 ### Olá, sejam bem vindos(as)! Sou José Luan!
 ### Hello, welcome! I'm José Luan!
-
+https://github-readme-stats.vercel.app/api/pin
 <div>
   <a href="https://github.com/jose-luan19">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=jose-luan19&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jose-luan19&layout=compact&langs_count=10&theme=dracula"/></a>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jose-luan19&repo=subscribe-service-streaming-with-rabbitMQ&theme=dracula"/></a>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jose-luan19&repo=aluracord-dbz&theme=dracula"/></a>
+  <img height="180em" src="https://github-readme-stats-sigma.vercel.app/api/pin/?username=jose-luan19&repo=subscribe-service-streaming-with-rabbitMQ&theme=dracula"/></a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=jose-luan19&repo=aluracord-dbz&theme=dracula"/></a>
 </div>
 
 <div style="display: inline_block"><br>
