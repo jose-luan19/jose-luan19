@@ -2,10 +2,12 @@
 ### Hello, welcome! I'm José Luan!
 
 <div>
-  <a href="https://github.com/jose-luan19">
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=jose-luan19&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jose-luan19&layout=compact&langs_count=10&theme=dracula"/>
-   </a>
+  <p align="center">
+    <a href="https://github.com/jose-luan19">
+      <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=jose-luan19&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+      <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jose-luan19&layout=compact&langs_count=10&theme=dracula"/>
+     </a>
+  </p>
 </div>
 <div class="container">
     <p align="center">
