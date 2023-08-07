@@ -42,8 +42,7 @@
 ##
  
 <div> 
-   <a href="https://instagram.com/jose_luan19" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" alt="instagram lario"></a>
-  <a href="https://www.linkedin.com/in/josé-luan-298459180" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="Linkedin Lário"></a>
+   <a href="https://instagram.com/jose_luan19" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" alt="instagram José Luan"></a>
+  <a href="https://www.linkedin.com/in/jose-luan" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="Linkedin José Luan"></a>
   
-  ![Snake animation](https://github.com/jose-luan19/jose-luan19/blob/output/github-contribution-grid-snake.svg)
 </div>
