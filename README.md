@@ -12,10 +12,10 @@
 <div class="container">
     <p align="center">
       <a href="https://github.com/jose-luan19/EncryptionWith.NET">
-        <img height="100em" src="https://github-readme-stats.vercel.app/api/pin/?username=jose-luan19&repo=EncryptionWith.NET&theme=dracula"/>
+        <img height="100em" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=jose-luan19&repo=EncryptionWith.NET&theme=dracula"/>
       </a>
       <a href="https://github.com/jose-luan19/aluracord-dbz">
-        <img height="100em" src="https://github-readme-stats.vercel.app/api/pin/?username=jose-luan19&repo=aluracord-dbz&theme=dracula"/>
+        <img height="100em" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=jose-luan19&repo=aluracord-dbz&theme=dracula"/>
       </a>
     </p>
   <p align="center">
