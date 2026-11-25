@@ -1,48 +1,82 @@
-### Olá, sejam bem vindos(as)! Sou José Luan!
-### Hello, welcome! I'm José Luan!
+# José Luan | Full Stack Developer
 
-<div>
-  <p align="center">
-    <a href="https://github.com/jose-luan19">
-      <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=jose-luan19&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-      <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jose-luan19&layout=compact&langs_count=10&theme=dracula"/>
-     </a>
-  </p>
-</div>
-<div class="container">
-    <p align="center">
-      <a href="https://github.com/jose-luan19/EncryptionWith.NET">
-        <img height="100em" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=jose-luan19&repo=EncryptionWith.NET&theme=dracula"/>
-      </a>
-      <a href="https://github.com/jose-luan19/aluracord-dbz">
-        <img height="100em" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=jose-luan19&repo=aluracord-dbz&theme=dracula"/>
-      </a>
-    </p>
-  <p align="center">
-    
-  </p>
-</div>
+<p align="left">
+  <a href="https://github.com/jose-luan19">
+    <img src="https://img.shields.io/badge/GitHub-jose--luan19-181717?style=flat-square&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/jose-luan">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Luan-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Luan-Net" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg">
-  <img align="center" alt="Luan-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Luan-Spring-Boot" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
-  <img align="center" alt="Luan-php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-   <img align="center" alt="Luan-laravel" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png">
-  <img align="center" alt="Luan-Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Luan-Postgresql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="Luan-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="Luan-Docker" height="30" width="40" src="https://cdn.icon-icons.com/icons2/2407/PNG/512/docker_icon_146192.png">
-  <img align="center" alt="Luan-react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  <img align="center" alt="Luan-Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
-  <img align="right" alt="Luan-Life-Developer" height="140" style="border-radius:50px;" src="http://clubedosgeeks.com.br/wp-content/uploads/2016/01/dormrm.gif">
-</div>
+### About me
 
-##
- 
-<div> 
-   <a href="https://instagram.com/jose_luan19" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" alt="instagram José Luan"></a>
-  <a href="https://www.linkedin.com/in/jose-luan" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="Linkedin José Luan"></a>
-  
-</div>
+Computer Engineering passionate about building scalable applications, designing APIs and developing efficient software solutions.
+
+I work across backend and frontend technologies, with a focus on the .NET ecosystem and modern web development.
+
+- 💻 Full Stack Development — .NET and Angular
+- 🗄️ Databases — QL Server and MongoDb
+- 🐳 Tools & Infrastructure — Docker, Git CI/CD
+- 📚 Always learning and improving software engineering practices.
+
+---
+
+### Tech Stack
+
+**Backend**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=dotnet,spring" />
+</p>
+
+**Frontend**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,angular" />
+</p>
+
+**Database & DevOps**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git" />
+</p>
+
+---
+
+### Featured Projects
+
+<p align="left">
+  <a href="https://github.com/jose-luan19/EncryptionWith.NET">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jose-luan19&repo=EncryptionWith.NET&theme=github_dark&hide_border=true" />
+  </a>
+  <a href="https://github.com/jose-luan19/aluracord-dbz">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jose-luan19&repo=aluracord-dbz&theme=github_dark&hide_border=true" />
+  </a>
+</p>
+
+---
+
+### GitHub Analytics
+
+<p align="left">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=jose-luan19&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&rank_icon=github" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jose-luan19&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
+</p>
+
+---
+
+### Contact
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/jose-luan">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/jose_luan19">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <sub>Building, learning and evolving through code.</sub>
+</p>
