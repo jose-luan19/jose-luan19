@@ -39,7 +39,9 @@ I work across backend and frontend technologies, with a focus on the .NET ecosys
 **Database & DevOps**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" height="48" alt="SQL Server" />
+  <img src="https://skillicons.dev/icons?i=mongodb" />
+  <img src="https://skillicons.dev/icons?i=docker,git,githubactions" />
 </p>
 
 ---
@@ -62,19 +64,6 @@ I work across backend and frontend technologies, with a focus on the .NET ecosys
 <p align="left">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=jose-luan19&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&rank_icon=github" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jose-luan19&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
-</p>
-
----
-
-### Contact
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/jose-luan">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/jose_luan19">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" />
-  </a>
 </p>
 
 <p align="center">
